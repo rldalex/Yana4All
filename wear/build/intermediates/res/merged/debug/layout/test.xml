@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    tools:deviceIds="wear_square"
+    android:background="#ffffff"
+    android:clickable="false"
+    android:contextClickable="false"
+    android:nestedScrollingEnabled="false"
+    android:focusableInTouchMode="true">
+
+    <Button
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="150dip"
+        android:layout_height="150dip"
+        android:background="@drawable/boutonwear"
+        android:id="@+id/button_vocal"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

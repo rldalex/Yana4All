@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="alexandreroland.yana.MainActivity">
+    <item android:id="@+id/menu_dashboard" android:title="Ouvrir le Dashboard"></item>
+    <item android:id="@+id/menu_bug" android:title="Signaler un bug"></item>
+    <item android:id="@+id/menu_don" android:title="Payer un verre"></item>
+</menu>

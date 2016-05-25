@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Yana4All</string>
+
+    <string name="action_settings">Paramètre</string>
+    <string name="item_bug">Signaler un bug</string>
+    <string name="item_don">Payer un verre</string>
+    <string name="textview_don">J\'ai créé cette application pendant mon temps libre.
+        Si vous l\'aimez envisager de faire un don pour que je puisse me payer un verre tout en travaillant sur la prochaine mise à jour ;).
+        Et encore merci d\'avoir installé l\'application =).
+    </string>
+
+    <string name="textview_server_ip">Configuration du réseau:</string>
+    <string name="button_server_ip_conf">Cliquer ici pour configurer</string>
+
+    <string name="textview_LAN">Entrer l\'adresse IP interne (LAN):</string>
+    <string name="edittext_LAN">192.168.1.25</string>
+
+    <string name="textview_WAN">Entrer l\'adresse IP externe (WAN):</string>
+    <string name="edittext_WAN">IP WAN ou DNS</string>
+
+    <string name="textview_SSID">Entrer le SSID de votre wifi:</string>
+    <string name="edittext_SSID">Livebox-b830</string>
+
+    <string name="textview_server_user">Nom d\'utilisateur:</string>
+    <string name="edittext_server_user">admin</string>
+
+    <string name="textview_client_password">Mot de passe:</string>
+    <string name="edittext_client_password">password</string>
+
+    <string name="button_connection_server">Connexion</string>
+    <string name="title_activity_yan">Yana</string>
+
+    <string name="button_commande_vocal">Commandes Vocales</string>
+
+    <string name="textview_checkbox_parametre">Enregistrer les informations:</string>
+
+    <string name="speech_prompt">Yana écoute votre commande&#8230;</string>
+    <string name="speech_not_supported">Désolé! Votre appareil ne supporte pas la reconnaissance vocal.</string>
+    <string name="title_activity_commandes_vocales">commandesVocales</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Yana4All</string>
+    <string name="msg_confirmation">Commande envoyée</string>
+    <string name="msg_erreur">Erreur Yana n\'est pas ouvert...</string>
+    <string name="edit_text_touchez">Touchez pour parler</string>
+
+    <string name="speech_prompt">Yana est à l\'écoute&#8230;</string>
+    <string name="speech_not_supported">Désolé! Votre appareil ne supporte pas la reconnaissance vocal.</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

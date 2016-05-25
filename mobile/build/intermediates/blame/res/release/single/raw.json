@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Documents\\Domotique\\Yana\\YANAforAndroid\\mobile\\build\\intermediates\\res\\merged\\release\\raw\\poule.mp3",
+        "source": "E:\\Documents\\Domotique\\Yana\\YANAforAndroid\\mobile\\src\\main\\res\\raw\\poule.mp3"
+    },
+    {
+        "merged": "E:\\Documents\\Domotique\\Yana\\YANAforAndroid\\mobile\\build\\intermediates\\res\\merged\\release\\raw\\pet.mp3",
+        "source": "E:\\Documents\\Domotique\\Yana\\YANAforAndroid\\mobile\\src\\main\\res\\raw\\pet.mp3"
+    },
+    {
+        "merged": "E:\\Documents\\Domotique\\Yana\\YANAforAndroid\\mobile\\build\\intermediates\\res\\merged\\release\\raw\\rot.mp3",
+        "source": "E:\\Documents\\Domotique\\Yana\\YANAforAndroid\\mobile\\src\\main\\res\\raw\\rot.mp3"
+    },
+    {
+        "merged": "E:\\Documents\\Domotique\\Yana\\YANAforAndroid\\mobile\\build\\intermediates\\res\\merged\\release\\raw\\android_wear_micro_apk.apk",
+        "source": "E:\\Documents\\Domotique\\Yana\\YANAforAndroid\\mobile\\build\\generated\\res\\microapk\\release\\raw\\android_wear_micro_apk.apk"
+    },
+    {
+        "merged": "E:\\Documents\\Domotique\\Yana\\YANAforAndroid\\mobile\\build\\intermediates\\res\\merged\\release\\raw\\gtm_analytics",
+        "source": "E:\\Documents\\Domotique\\Yana\\YANAforAndroid\\mobile\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    }
+]

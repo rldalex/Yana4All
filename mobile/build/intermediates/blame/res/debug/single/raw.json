@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Documents\\Domotique\\Yana\\YANAforAndroid\\mobile\\build\\intermediates\\res\\merged\\debug\\raw\\rot.mp3",
+        "source": "E:\\Documents\\Domotique\\Yana\\YANAforAndroid\\mobile\\src\\main\\res\\raw\\rot.mp3"
+    },
+    {
+        "merged": "E:\\Documents\\Domotique\\Yana\\YANAforAndroid\\mobile\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "E:\\Documents\\Domotique\\Yana\\YANAforAndroid\\mobile\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "E:\\Documents\\Domotique\\Yana\\YANAforAndroid\\mobile\\build\\intermediates\\res\\merged\\debug\\raw\\pet.mp3",
+        "source": "E:\\Documents\\Domotique\\Yana\\YANAforAndroid\\mobile\\src\\main\\res\\raw\\pet.mp3"
+    },
+    {
+        "merged": "E:\\Documents\\Domotique\\Yana\\YANAforAndroid\\mobile\\build\\intermediates\\res\\merged\\debug\\raw\\poule.mp3",
+        "source": "E:\\Documents\\Domotique\\Yana\\YANAforAndroid\\mobile\\src\\main\\res\\raw\\poule.mp3"
+    }
+]
